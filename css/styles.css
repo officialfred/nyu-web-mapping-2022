@@ -1,3 +1,4 @@
+/* Basic centering and font definition */
 .centered-text {
   text-align: center;
 }
@@ -6,6 +7,7 @@
   font-family: Arial, sans-serif;
 }
 
+/* these make it so the buttons start hidden and are displayed l8r */
 #button2 {
     visibility: hidden;
     }
@@ -15,9 +17,5 @@
     }
 
 #button4 {
-    visibility: hidden;
-    }
-
-#vid {
     visibility: hidden;
     }
